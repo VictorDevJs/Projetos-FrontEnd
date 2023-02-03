@@ -8,9 +8,9 @@ const Formulario = () => {
         <h2>Escreva aqui suas credênciais</h2>
         <CampoTexto label="Nome" placeholder="Digite seu nome" />
         <CampoTexto label="Cargo" placeholder="Digite seu cargo" />
-        <CampoTexto label="Imagem" placeholder="Digite o endereço da imagem" />
-        <CampoTexto label="Telefone" placeholder="Digite Aqui seu telefone" />
-        <CampoTexto label="CPF" placeholder="Digite Aqui seu CPF" />
+        <CampoTexto label="E-mail" placeholder="Digite seu Email" />
+        <CampoTexto label="Telefone" placeholder="Digite seu telefone" />
+        <CampoTexto label="CPF" placeholder="Digite seu CPF" />
       </form>
 
     </section>
