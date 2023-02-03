@@ -1,10 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
-import Meu from './components/Meu/Meu';
+import Cabecalho from './components/Cabecalho/Cabecalho';
+import Formulario from './components/Formulario';
+
 
 function App() {
   return (
-    <Meu></Meu>
+    <div className="app">
+      <Cabecalho />
+      <Formulario />
+    </div>
+
+
+
 
   );
 }
