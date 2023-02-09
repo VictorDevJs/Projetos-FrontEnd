@@ -5,12 +5,10 @@ const Formulario = () => {
   return (
     <section className='formulario'>
       <form>
-        <h2>Escreva aqui suas credênciais</h2>
-        <CampoTexto label="Nome" placeholder="Digite seu nome" />
-        <CampoTexto label="Cargo" placeholder="Digite seu cargo" />
-        <CampoTexto label="E-mail" placeholder="Digite seu Email" />
-        <CampoTexto label="Telefone" placeholder="Digite seu telefone" />
-        <CampoTexto label="CPF" placeholder="Digite seu CPF" />
+        <h2>Experiências</h2>
+        <h3>Keeggo Technology (2022)</h3>
+        <h4>Desenvolvimento Java</h4>
+        <CampoTexto label="Nome" />
       </form>
 
     </section>

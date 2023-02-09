@@ -1,4 +1,5 @@
 import "./Cabecalho.css";
+import Icone from '../Icone';
 
 const Cabecalho = () => {
   return (
